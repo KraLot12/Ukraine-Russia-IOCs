@@ -1,0 +1,910 @@
+CampaignName,IndicatorType,IndicatorValue
+"NCSC, Cyclops Blink",IP Address,212.234.179.113
+"NCSC, Cyclops Blink",IP Address,80.15.113.188
+"NCSC, Cyclops Blink",IP Address,109.192.30.125
+Ukraine - Cyber Attack IOC,FileSha256,081b548f9e06488d367497b02de972394b0da10b473a245bdf0c026e6406b86b
+Ukraine - Cyber Attack IOC,FileSha256,8e1d7a3cbd5b501f5c337063e5b83c0935291eff9ea8cdd4c3cdcbff2e3ad459
+Ukraine - Cyber Attack IOC,DomainName,sound23.sundabokun.ru
+Ukraine - Cyber Attack IOC,DomainName,delicacy.delicate.maizuko.ru
+Ukraine - Cyber Attack IOC,DomainName,asdorta.ru
+Ukraine - Cyber Attack IOC,DomainName,gongorat.ru
+Ukraine - Cyber Attack IOC,Url,hxxp://5.182.211.5/rip.sh
+Winterflounder,Hash,ee818a51cc890bf80e81523a051c82293d6c57acf47f8ddccd667d12fc88cb45
+Winterflounder,Hash,3dca96ef38d4b8d1dbb4afed43a22ace93cc3a0a105120d4cf637e6dafe129e9
+Walleye,Hash,af77e845f1b0a3ae32cb5cfa53ff22cc9dae883f05200e18ad8e10d7a8106392
+Whispergate,Domain,krashand.ru
+Whispergate,Domain,jabilen.ru
+Whispergate,Domain,molodora.ru
+Whispergate,Domain,marisut.ru
+Whispergate,Domain,putrif.ru
+Whispergate,Domain,proteusa.ru
+Whispergate,Domain,koloratos.ru
+Whispergate,Domain,kitta.ru
+Additional IOC,Hash,8a8c1a292eeb404407a9fe90430663a6d17767e49d52107b60bc229c090a0ae9
+Filename for 071dbd336e02c717f3dad1e374c1f6eb83294b7105c7cd60d562a32880200270,Filename,zx_d231245d17de40d9523590413920f5e1.dll
+"NCSC, Cyclops Blink, Name of file used to persist C2 server IP addresses on the device filesystem",Filename,rootfs_cfg
+"NCSC, Cyclops Blink",IP Address,80.155.38.210
+"Possible WINTERFLOUNDER sample, Jan-Feb 2022",Hash,a6867e9086a8f713a962238204a3266185de2cc3c662fba8d79f0e9b22ce8dd6
+Ukraine - Cyber Attack IOC,FileSha256,119f9f69e6fa1f02c1940d1d222ecf67d739c7d240b5ac8d7ec862998fee064d
+Ukraine - Cyber Attack IOC,DomainName,kimiga.ru
+Ukraine - Cyber Attack IOC,DomainName,deep-toned.chehalo.ru
+Winterflounder,Hash,7de5526d2c3c48b3fd239c87f7ab3c4ce4b26077bbdbf05fc88a9b84d6fb309b
+Winterflounder,Hash,6d4b97e74abf499fa983b73a1e6957eadb2ec6a83e206fff1ab863448e4262c6
+Winterflounder,Hash,d60a4dfc2c48fd80957ee77ab0ec4221f67e3f92551c9c245292f56dbaf9912e
+Walleye,Hash,8d10fd18de90829eccc33e79b92987bc33999403a1f7e2766903d21d38a247a9
+Whispergate,Domain,nijinda.ru
+Whispergate,Domain,monily.ru
+Whispergate,Domain,meandrusas.ru
+Whispergate,Domain,macros4.space
+Whispergate,Domain,lophacris.ru
+Whispergate,Domain,libellulat.online
+Whispergate,Domain,konokini.ru
+Whispergate,Domain,riumos.ru
+Whispergate,Domain,richia.ru
+Whispergate,Domain,pirovot.ru
+Whispergate,Domain,kimige.ru
+Additional IOC,Hash,b92dcbacbaaf0a05c805d31762cd4e45c912ba940c57b982939d79731cf97217
+"NCSC, Cyclops Blink",IP Address,151.0.169.250
+Ukraine - Cyber Attack IOC,DomainName,nomukou.ru
+Ukraine - Cyber Attack IOC,DomainName,kroviti.ru
+Ukraine - Cyber Attack IOC,DomainName,hopfar.ru
+Ukraine - Cyber Attack IOC,DomainName,bobotal.ru
+Ukraine - Cyber Attack IOC,DomainName,milopoda.ru
+Winterflounder,Hash,3e1d17efe857c935869fc28ce94c3528f7f5232fcebd40442a7c3c388e3d69be
+Winterflounder,Hash,8db529765e5df53e6c9f2614f21b4233fe43714f3438a4a7ec04e454c3662ab1
+Winterflounder,Hash,986905caada61f2ea4aebd5664ed71cc9109a3886b998d91433216f30dc6b0e7
+Walleye,Hash,6ad3eb8b5622145a70bec67b3d14868a1c13864864afd651fe70689c95b1399a
+Walleye,Hash,00745eef51e30dd33598656536b6117b8cfb8490849a64e1e5740bba447f9a97
+Whispergate,Domain,alacritas.ru
+Whispergate,Domain,holotran.ru
+Whispergate,Domain,gortova.ru
+Whispergate,Domain,jortiska.ru
+Whispergate,Domain,mirabilisa.ru
+Whispergate,Domain,vivaldar.ru
+Whispergate,Domain,ruhodo.ru
+Whispergate,Domain,koraseba.ru
+Whispergate,Domain,rabilin.ru
+Whispergate,Domain,picalisy.ru
+Whispergate,Domain,kjoi.ru
+Whispergate,Domain,kibou.ru
+Additional IOC,Hash,8831eb86996d4778be526a6fd281c98d624b155940aae463b45dda1c5f979f1c
+Additional IOC,Hash,0a5fce829d3f7b43f6eb107c2e8e3d7883b96aa2703ff0f8dda3b5d464cca3f0
+Ukraine - Cyber Attack IOC,FileSha256,cb0d151d930b17f6376c18aa15fd976eac53d6f07d065fc27c40b466e3bc49aa
+Ukraine - Cyber Attack IOC,DomainName,mudarist.ru
+Ukraine - Cyber Attack IOC,DomainName,bibikaro.ru
+Ukraine - Cyber Attack IOC,DomainName,klotrast.ru
+Winterflounder,Hash,0911c20a123b21c077a12b43914ff2f8a1bccf5a983d0561004cf86a27b5154a
+Winterflounder,Hash,b6ff96193514aa11b6fc0e5d58e7dcdccedfa373ee4858a2da582e4eceae86c5
+Winterflounder,Hash,cb4963fb3a85766278426ebf4a00ae5c5d7576f21b35cfa0df1f9529073015a9
+Walleye,Hash,5fb29fb0136978b9ccf60750af09cec74a257a0ca9c47159ca74dbba21fbcc59
+Whispergate,Domain,koltorist.ru
+Whispergate,Domain,saturapa.ru
+Whispergate,Domain,hymenoptera.ru
+Whispergate,Domain,deep-toned.chehalo.ru
+Whispergate,Domain,omonae.ru
+Whispergate,Domain,nymphalidaes.ru
+Whispergate,Domain,morphon.ru
+Whispergate,Domain,morotrot.ru
+Whispergate,Domain,fiordan.ru
+Whispergate,Domain,machic.ru
+Whispergate,Domain,lepidopteras.online
+Whispergate,Domain,zerotask.ru
+Whispergate,Domain,prisonta.ru
+Whispergate,Domain,printinap.ru
+Whispergate,Domain,optivan.ru
+Additional IOC,Hash,fa01e7de3beddff3ee5f32d3a3f7d62fab0f1e37a93b7f09729f14b0d20758c1
+Additional IOC,Hash,35feefe6bd2b982cb1a5d4c1d094e8665c51752d0a6f7e3cae546d770c280f3a
+Additional IOC,URL,http://188.225.58.51/craft.php
+Filename for db5a204a34969f60fe4a653f51d64eee024dbf018edea334e8b3df780eda846f,Filename,Qtmpil.vbs
+"NCSC, Cyclops Blink",IP Address,50.255.126.65
+"NCSC, Cyclops Blink",IP Address,185.82.169.99
+Ukraine - Cyber Attack IOC,FileSha256,420960a10e3f3730ab124bfefceedc032ef06c7b38fa014b2b59462365a5f08d
+Ukraine - Cyber Attack IOC,FileSha256,b3d68268bd4bb14b6d412cef2b12ae4f2a385c36600676c1a9988cf1e9256877
+Ukraine - Cyber Attack IOC,DomainName,gortomalo.ru
+Ukraine - Cyber Attack IOC,DomainName,reapart.ru
+Ukraine - Cyber Attack IOC,DomainName,warau.ru
+Ukraine - Cyber Attack IOC,DomainName,sundabokun.ru
+Winterflounder,Hash,07698f9b727daec99c446525aca889fc086e3cf6e3c307afdd72adff0113ceb0
+Winterflounder,Hash,652d9bc90cc1833f667508c7f794237a0945c875c61370e54c73073ba27e7c85
+Winterflounder,Hash,72086e3e2992e60f2fdd35049653478db397cad5b81c59789ce0aae0590ce78b
+Winterflounder,Hash,367117e3acf6317b4cec64e514d461f9e761146aca0cb6eed9ef5a1fb35b63cc
+Whispergate,Domain,jofarti.ru
+Whispergate,Domain,nortogal.ru
+Whispergate,Domain,nolortasto.ru
+Whispergate,Domain,lovelat.ru
+Whispergate,Domain,kolotran.ru
+Whispergate,Domain,roquef.ru
+Whispergate,Domain,powerton.ru
+Additional IOC,URL,http://94.158.247.103/bars.cas
+WhisperGate related,Hash,22f1d202cd3c902a5d813b0be8a3bc3e61af31a3dcd799e6a63139d6ea888382
+Ukraine - Cyber Attack IOC,FileSha256,fa01e7de3beddff3ee5f32d3a3f7d62fab0f1e37a93b7f09729f14b0d20758c1
+Ukraine - Cyber Attack IOC,FileSha256,3cbe7d544ef4c8ff8e5c1e101dbdf5316d0cfbe32658d8b9209f922309162bcf
+Ukraine - Cyber Attack IOC,FileSha256,3bab73a7ba6b84d9c070bb7f71daab5b40fcb6ee0387b67be51e978a47c25439
+Ukraine - Cyber Attack IOC,FileSha256,85c14f4a7580623f967b9e9f7120a14bd3291f2177298e6bcb32e234af9bb2a8
+Ukraine - Cyber Attack IOC,DomainName,volotras.ru
+Ukraine - Cyber Attack IOC,Url,hxxp://sound23.sundabokun.ru/FRIMEPC2016-PC/allowance.stc
+Winterflounder,Hash,1164ba0688458c44b2063894100ecdc52221eb85b82a5044c55043e7918d4a19
+Winterflounder,Hash,90548a2e2a8139805377bfcd3a0d8f044c2cbfa1be6f54eda9e798f0a27a2fb4
+Winterflounder,Hash,7c7c8548b7657c34e2b654919edbe848d460ab93630021e8e9743f8204cb0c76
+Winterflounder,Hash,b9dd1e5ec018090b404dd7550d4423ff38ee1f016a5ab214f128544f5b399759
+Walleye,Hash,0f0cabb24d8cc93e5aed340cfc492c4008509f1e84311d61721a4375260a0911
+Whispergate,Domain,Moolin.ru
+Whispergate,Domain,kroviti.ru
+Whispergate,Domain,oyoida.ru
+Whispergate,Domain,hostarama.ru
+Whispergate,Domain,herumot.ru
+Whispergate,Domain,dortisto.ru
+Whispergate,Domain,obacter.ru
+Whispergate,Domain,repository.click
+Whispergate,Domain,polonti.ru
+Whispergate,Domain,papiliot.ru
+BlackKnight,Hash,ecaf150e087ddff0ec6463c92f7f6cca23cc4fd30fe34c10b3cb7c2a6d135c77
+Additional IOC,Hash,b3d68268bd4bb14b6d412cef2b12ae4f2a385c36600676c1a9988cf1e9256877
+Ukraine - Cyber Attack IOC,DomainName,jolotras.ru
+Ukraine - Cyber Attack IOC,DomainName,brontaga.ru
+Ukraine - Cyber Attack IOC,DomainName,hajimari.ru
+Ukraine - Cyber Attack IOC,DomainName,torogat.ru
+Ukraine - Cyber Attack IOC,DomainName,nemoiti.ru
+Ukraine - Cyber Attack IOC,DomainName,koltorist.ru
+Winterflounder,Hash,a6867e9086a8f713a962238204a3266185de2cc3c662fba8d79f0e9b22ce8dd6
+Winterflounder,Hash,043d696c2199d61ee0a09be93e387498c6a53188c3e3ec20acfeccc9c9aeb251
+Winterflounder,Hash,d93551a9fa3ad9bdbb0f10dd447046e03a29bbb36245ac4245b80d982a78a930
+Winterflounder,Hash,3e273cec5fd77784c72f90018f11e0690387c9fde93defca16a971c8396f64df
+Whispergate,Domain,nattanda.ru
+Whispergate,Domain,sumikko.ru
+Whispergate,Domain,dushnilo.ru
+Whispergate,Domain,lycaenidae.ru
+WhisperGate related,Hash,b50fb20396458aec55216cc9f5212162b3459bc769a38e050d4d8c22649888ae 
+Stops Windows Defender service. E-crime related file observed in WhisperGate chain of compromise,Hash,29ae7b30ed8394c509c561f6117ea671ec412da50d435099756bbb257fafb10b
+"NCSC, Cyclops Blink",IP Address,24.199.247.222
+"Sentinel Labs,  RCDATA_DRV_XP_X64 in HermeticWiper, ms-compressed resource",Hash,095a1678021b034903c85dd5acb447ad
+Ukraine - Cyber Attack IOC,FileSha256,28c5629b18b097015ef8c256a8a7f2019ddc1a362a92a0379dd5d0c98b0e33d3
+Ukraine - Cyber Attack IOC,FileSha256,b92dcbacbaaf0a05c805d31762cd4e45c912ba940c57b982939d79731cf97217
+Ukraine - Cyber Attack IOC,FileSha256,0e5b4e578788760701630a810d1920d510015367bf90c1eab4373d0c48a921d9
+Ukraine - Cyber Attack IOC,DomainName,sorawo.ru
+Ukraine - Cyber Attack IOC,DomainName,dudocilo.ru
+Ukraine - Cyber Attack IOC,Url,hxxp://188.225.25.7/WHATSAAP.php
+Winterflounder,Hash,4e9c8ef5e6391a9b4a705803dc8f2daaa72e3a448abd00fad36d34fe36f53887
+Winterflounder,Hash,ba96cfe58a5c8f4636b0a0668a9d9127eee3ed80c96db48d3a63ae9c6ce97b2d
+Whispergate,Domain,nomukou.ru
+Whispergate,Domain,karrid.ru
+Whispergate,Domain,kallima.online
+Whispergate,Domain,nomadar.ru
+Whispergate,Domain,mycobar.ru
+Whispergate,Domain,mucora.ru
+Whispergate,Domain,meletis.ru
+Whispergate,Domain,limenitidinae.ru
+BlackKnight,Hash,37d54e3d5e8b838f366b9c202f75fa264611a12444e62ae759c31a0d041aa6e4
+Additional IOC,Hash,daecec4b18cf212a59458afb1f6eac6568c389ec4f0185e11262b4c4cf09a394
+Ukraine - Cyber Attack IOC,FileSha256,a33ccc612a03de4f42a6f5ab5277470f6a7e8ee7abe52725b13704366e8da48b
+Ukraine - Cyber Attack IOC,FileSha256,978672b911f0b1e529c9cf0bca824d3d3908606d0545a5ebbeb6c4726489a2ed
+Ukraine - Cyber Attack IOC,DomainName,fartopart.ru
+Ukraine - Cyber Attack IOC,DomainName,sumikko.ru
+Winterflounder,Hash,0e00837d95eac249c831e1bae314ea9aa1ac3a60e3fc018eb81f6e14e822b6c5
+Whispergate,IP Address,87.249.49.13
+Whispergate,Domain,nonima.ru
+Whispergate,Domain,vadilops.ru
+Whispergate,Domain,nymphalidaes.online
+Whispergate,Domain,nematoceras.ru
+Whispergate,Domain,nedvizhimostdoma.ru
+Whispergate,Domain,nalitoras.ru
+Whispergate,Domain,mantidae.ru
+Whispergate,Domain,vasitron.ru
+Whispergate,Domain,nopaster.ru
+Additional IOC,Hash,785daa61b835d71e2ce350664063541ebfdff43e373072af5e9c16ad40e042c2
+Additional IOC,Hash,6a64a8e2202db7f3a77d32b4852b71acf620f96580ca015e8bff8f5a09622032
+Additional IOC,Hash,978672b911f0b1e529c9cf0bca824d3d3908606d0545a5ebbeb6c4726489a2ed
+E-crime related file observed in WhisperGate chain of compromise,Hash,9ef7dbd3da51332a78eff19146d21c82957821e464e8133e9594a07d716d892d
+WhisperGate related,Hash,35feefe6bd2b982cb1a5d4c1d094e8665c51752d0a6f7e3cae546d770c280f3a
+"NCSC, Cyclops Blink",IP Address,70.62.153.174
+"NCSC, Cyclops Blink",IP Address,78.134.89.167
+Ukraine - Cyber Attack IOC,FileSha256,b9b41fbbd646f11d148cface520a5d4e0ec502ba85c67b00668e239082a302e3
+Ukraine - Cyber Attack IOC,FileSha256,29ae7b30ed8394c509c561f6117ea671ec412da50d435099756bbb257fafb10b
+Ukraine - Cyber Attack IOC,FileSha256,67a7dc6405acc9887da45e7b5d57413157519265650fa6749b1b2c8c0a8f3d11
+Ukraine - Cyber Attack IOC,FileSha256,85d1707c3b54c31f08d560194620da9a15b4a43f562f7eddf8ec7cd48a49f4a9
+Ukraine - Cyber Attack IOC,DomainName,krashand.ru
+Ukraine - Cyber Attack IOC,DomainName,haguret.ru
+Walleye,Hash,020e17dd0db54cce86d4899160d40a550533d69013d82d836e7ddf78e09b11ab
+Walleye,Hash,48c2f53f1eeb669fadb3eec46f7f3d4572e819c7bb2d39f22d22713a30cc1846
+Whispergate,Domain,oderas.ru
+Whispergate,Domain,kozikra.ru
+Whispergate,Domain,rategade.ru
+Whispergate,Domain,peaakyt.ru
+Whispergate,Domain,onibacter.ru
+Whispergate,Domain,kilotrofa.ru
+BlackKnight,Hash,156bd34d713d0c8419a5da040b3c2dd48c4c6b00d8a47698e412db16b1ffac0f
+Additional IOC,Hash,bf90d5db47e6ba3a1840976b6bb88a8d0dfe97dfe02c9ca31b7be4018816d232
+Additional IOC,Hash,85d1707c3b54c31f08d560194620da9a15b4a43f562f7eddf8ec7cd48a49f4a9
+Additional IOC,Hash,b50fb20396458aec55216cc9f5212162b3459bc769a38e050d4d8c22649888ae
+Filename for caf115ca0f2677c842bdb184d7e9dbf148a6299dc3bcbe9c306807587bb45ec4,Filename,Dkiundwrrpvklxa.dll
+"NCSC, Cyclops Blink",IP Address,93.51.177.66
+"Possible WINTERFLOUNDER sample, Jan-Feb 2022",Hash,a01e12988448a5b26d1d1adecc2dda539b5842f6a7044f8803a52c8bb714cdb0
+"NCSC, Cyclops Blink",IP Address,90.63.245.175
+"NCSC, Cyclops Blink",IP Address,217.57.80.18
+Ukraine - Cyber Attack IOC,FileSha256,c68eb2fa929373cac727764d2cc5ca94f19a0ec7fd8c0876b98f946e72d9fa03
+Ukraine - Cyber Attack IOC,FileSha256,34ca75a8c190f20b8a7596afeb255f2228cb2467bd210b2637965b61ac7ea907
+Ukraine - Cyber Attack IOC,DomainName,vostilo.ru
+Winterflounder,Hash,3fede347c45eccd0967431b7496672d43b057a3a3e42dc2922421cb7f2457d43
+Winterflounder,Hash,df70346afd410d3ba26eeeb0194fc7e6d427bfafef9a34b9efd49936ca9e273b
+Winterflounder,Hash,cbe1dbd167bccbf61ee8608092a767ce3fbfb5fe5f6e959848d9a8d9091402fb
+Winterflounder,Hash,ce02bba7857842bee8eb490ae2971926c9e0412dbd1efc5a2c173fc7f59bd1d2
+Walleye,Hash,ed8f52cdfc5f4c4be95a6b2e935661e00b50324bee5fe8974599743ccfd8daba
+Whispergate,Domain,mirotas.ru
+Whispergate,Domain,itsuke.ru
+Whispergate,Domain,deer-lick.chehalo.ru
+Whispergate,Domain,maniola.online
+Whispergate,Domain,martusi.ru
+Whispergate,Domain,portikos.ru
+Whispergate,Domain,plateri.ru
+Whispergate,Domain,perfrin.ru
+Zander,Hash,70efbd074326e7bbd4e851ded5c362fe5fe06282ed4bbb4b9f761f1b12ee32f7
+BlackKnight,Hash,7907dd95c1d36cf3dc842a1bd804f0db511a0f68f4b3d382c23a3c974a383cad
+Ukraine - Cyber Attack IOC,FileSha256,785daa61b835d71e2ce350664063541ebfdff43e373072af5e9c16ad40e042c2
+Ukraine - Cyber Attack IOC,FileSha256,eb1724d14397de8f9dca4720dada0195ebb99d72427703cabcb47b174a3bfea2
+Ukraine - Cyber Attack IOC,FileSha256,8ed03b1d544444b42385e79cd17c796fefae71d140b146d0757a3960d8ba3cba
+Ukraine - Cyber Attack IOC,FileSha256,3a4f3a39d32715a57c9985690a3fea76140ba832a1bfbb0c6aa3b6270661e12c
+Ukraine - Cyber Attack IOC,DomainName,onihik.ru
+Winterflounder,Hash,f54c01295b27acf46f90ab22f23a5918be2a0cec329d55766a82e483b8cfeff3
+Winterflounder,Hash,2407793f8bd2b4f3b9b14c4227b6110e48bb0b5388d181cf9eaa9585f4d595b1
+Walleye,Hash,dd84b787dc0e0681730ce550d1dbe68c58e45121736b31dcaa1a6eeb80a9174a
+Whispergate,Domain,gorigan.ru
+Whispergate,Domain,fartopart.ru
+Whispergate,Domain,utemomac.ru
+Whispergate,Domain,historap.ru
+Whispergate,Domain,gortisir.ru
+Whispergate,Domain,khjs.ru
+Whispergate,Domain,inachis.online
+Whispergate,Domain,noiiano.ru
+Whispergate,Domain,mantidae.online
+Whispergate,Domain,libasti.ru
+Whispergate,Domain,krogis.ru
+Whispergate,Domain,rastani.ru
+Whispergate,Domain,padiska.ru
+BlackKnight,Hash,893e4cca7fe58191d2f6722b383b5e8009d3885b5913dcd2e3577e5a763cdb3f
+Additional IOC,Hash,6d4b97e74abf499fa983b73a1e6957eadb2ec6a83e206fff1ab863448e4262c6
+"ESET, HermeticWiper",Hash,0385eeab00e946a302b24a91dea4187c1210597b8e17cd9e2230450f5ece21da
+Filename for dcbbae5a1c61dbbbb7dcd6dc5dd1eb1169f5329958d38b58c3fd9384081c9b78,Filename,stage2.exe
+Ukraine - Cyber Attack IOC,DomainName,dokkade.ru
+Ukraine - Cyber Attack IOC,DomainName,goshita.ru
+Ukraine - Cyber Attack IOC,DomainName,meshatr.ru
+Ukraine - Cyber Attack IOC,DomainName,golorta.ru
+Winterflounder,Hash,c6236e293e6dc2ec419d24e81d810dc16a7dc162d8e5fc19e5c44b44f4819a18
+Winterflounder,Hash,74cb6c1c644972298471bff286c310e48f6b35c88b5908dbddfa163c85debdee
+Winterflounder,Hash,f8dcd730cd06b18dc109473b7dac83c4f74f5c0c864cecc80bbf9e8bae974d8e
+Winterflounder,Hash,63f3112aca7c36772cafac6482e4faece639035818be8f236e5f3f7b84ac420c
+Winterflounder,Hash,93f3ff62452444c6c93f708ec9c110cfb0c630f462ea63db9abbe96a6053acb1
+Walleye,IP Address,185.112.83.22
+Whispergate,Domain,mujakini.ru
+Whispergate,Domain,motteiru.ru
+Whispergate,Domain,haguret.ru
+Whispergate,Domain,proteug.ru
+Additional IOC,Hash,1164ba0688458c44b2063894100ecdc52221eb85b82a5044c55043e7918d4a19
+Additional IOC,Hash,119f9f69e6fa1f02c1940d1d222ecf67d739c7d240b5ac8d7ec862998fee064d
+Ukraine - Cyber Attack IOC,FileSha256,d5336cea94b2b5f56b315e822eb92e099cf9c7d0f5d6cbff1ccc33236d10fd6b
+Ukraine - Cyber Attack IOC,FileSha256,ef9b39705decbb85269518705053e7f4087758eea6bab4ba9135bf1ae922b2ea
+Ukraine - Cyber Attack IOC,FileSha256,0f9d723c3023a6af3e5522f63f649c7d6a8cb2727ec092e0b38ee76cd1bbf1c4
+Ukraine - Cyber Attack IOC,FileSha256,923eb77b3c9e11d6c56052318c119c1a22d11ab71675e6b95d05eeb73d1accd6
+Ukraine - Cyber Attack IOC,DomainName,ouichi.ru
+Ukraine - Cyber Attack IOC,DomainName,mirotas.ru
+Ukraine - Cyber Attack IOC,DomainName,dushnilo.ru
+Ukraine - Cyber Attack IOC,DomainName,gortova.ru
+Ukraine - Cyber Attack IOC,Url,hxxp://89.223.120.224/crawled.php
+Winterflounder,Hash,a60df90504735f4e424ec0842e328181d7e93ac9ecd8193e892584871643bec7
+Walleye,URL,http://node.kibot.pw:2095/links/12-25
+Walleye,Hash,ef3e0845b289f1d3b5b234b0507c554dfdd23a5b77f36d433489129ea722c6bb
+Whispergate,Domain,kimiga.ru
+Whispergate,Domain,mudarist.ru
+Whispergate,Domain,vnestri.ru
+Whispergate,Domain,ninobotte.ru
+Whispergate,Domain,libre3.space
+Whispergate,Domain,libre2.space
+Whispergate,Domain,oyamawo.ru
+Whispergate,Domain,klebsie.ru
+Additional IOC,Hash,081b548f9e06488d367497b02de972394b0da10b473a245bdf0c026e6406b86b
+"NCSC, Cyclops Blink",IP Address,212.103.208.182
+"NCSC, Cyclops Blink",IP Address,81.4.177.118
+Ukraine - Cyber Attack IOC,DomainName,naletovo.ru
+Ukraine - Cyber Attack IOC,DomainName,nonima.ru
+Ukraine - Cyber Attack IOC,DomainName,vositra.ru
+Ukraine - Cyber Attack IOC,DomainName,alebont.ru
+Winterflounder,Hash,00e5afc3cd0760434f9812ac569e8c00c27a82ef4312e6290d351a88498efa8d
+Winterflounder,Hash,304de8f4548cb616c97fcc841132a704f449c5dae709e7d1fb25810e7136cb46
+Winterflounder,Hash,3974f0b347dd42c5bd9d695a965f2fdd5a03b232702cb1162aad11307b68b6d7
+Walleye,Hash,7f4b8fa3405b1a9669dbd658763f3851b6b450bb016fbef357e9db40cceafc0f
+Whispergate,IP Address,94.228.126.157
+Whispergate,Domain,nokata.ru
+Whispergate,Domain,mirabits.ru
+Whispergate,Domain,maxrota.ru
+Whispergate,Domain,lophacris.online
+Whispergate,Domain,linsoda.ru
+Whispergate,Domain,legasto.ru
+Whispergate,Domain,machiwo.ru
+Whispergate,Domain,riumo.ru
+Whispergate,Domain,reftist.ru
+Whispergate,Domain,ontroma.ru
+Whispergate,Domain,khpf.ru
+Pseudo,Hash,dcbbae5a1c61dbbbb7dcd6dc5dd1eb1169f5329958d38b58c3fd9384081c9b78
+BlackKnight,Hash,bef59b9a3e00a14956e0cd4a1f3e7524448cbe5d3cc1295d95a15b83a3579c59
+Additional IOC,Hash,d5336cea94b2b5f56b315e822eb92e099cf9c7d0f5d6cbff1ccc33236d10fd6b
+Additional IOC,Hash,0afce2247ffb53783259b7dc5a0afe04d918767c991db2da906277898fd80be5
+"NCSC, Cyclops Blink",IP Address,2.230.110.137
+"NCSC, Cyclops Blink",IP Address,80.153.75.103
+Ukraine - Cyber Attack IOC,FileSha256,803f8c5827e151d7571c06d1c1a8f0dca23cc2ff377efa6744e6a98f8c297c37
+Ukraine - Cyber Attack IOC,FileSha256,a6867e9086a8f713a962238204a3266185de2cc3c662fba8d79f0e9b22ce8dd6
+Ukraine - Cyber Attack IOC,FileSha256,bae9895ad4e392990a09b1b8a01e424a7ad3769e538ac693919d1b99989f0cb3
+Ukraine - Cyber Attack IOC,FileSha256,35feefe6bd2b982cb1a5d4c1d094e8665c51752d0a6f7e3cae546d770c280f3a
+Ukraine - Cyber Attack IOC,DomainName,ikaraur.ru
+Winterflounder,Hash,137bfe2977b719d92b87699d93c0f140d659e990b482bbc5301085003c2bd58c
+Winterflounder,Hash,8a9f45e819513fd02aa0521aea3a0d85490c91523227b130d7ff08d12b8820ae
+Winterflounder,Hash,c9ffc90487ddcb4bb0540ea4e2a1ce040740371bb0f3ad70e36824d486058349
+Walleye,Hash,1d772f707ce74473996c377477ad718bba495fe7cd022d5b802aaf32c853f115
+Walleye,Hash,43f46a66c821e143d77f9311b24314b5c5eeccfedbb3fbf1cd484c9e4f537a5d
+Walleye,Hash,2378e76aba1ad6e0c937fb39989217bf0de616fdad4726c0f4233bf5414cde86
+Walleye,Hash,61cce5e1931f8ab3925e44f54108b6063e3a4383fd545523a4599c44c6c46474
+Whispergate,Domain,teroba.ru
+Whispergate,Domain,lotorda.ru
+Whispergate,Domain,torogat.ru
+Whispergate,Domain,dudocilo.ru
+Whispergate,Domain,nostikarta.ru
+Whispergate,Domain,metronoc.ru
+Whispergate,Domain,mesant.ru
+Whispergate,Domain,lortova.ru
+Whispergate,Domain,leraer.ru
+Whispergate,Domain,koporta.ru
+Whispergate,Domain,nukegaran.ru
+Whispergate,Domain,rificum.ru
+Whispergate,Domain,papiliot.online
+HermeticWiper,Hash,2c10b2ec0b995b88c27d141d6f7b14d6b8177c52818687e4ff8e6ecf53adf5bf
+Filename for 34ca75a8c190f20b8a7596afeb255f2228cb2467bd210b2637965b61ac7ea907,Filename,Waqybg
+"Possible WINTERFLOUNDER sample, Jan-Feb 2022",Hash,137bfe2977b719d92b87699d93c0f140d659e990b482bbc5301085003c2bd58c
+Ukraine - Cyber Attack IOC,FileSha256,1d776e7fb062e153d3a62e1ebe1f2eec30ea13fa4b1b8749935f1856be4182d9
+Ukraine - Cyber Attack IOC,DomainName,vadilops.ru
+Ukraine - Cyber Attack IOC,DomainName,lenatara.ru
+Ukraine - Cyber Attack IOC,DomainName,hokoldar.ru
+Ukraine - Cyber Attack IOC,DomainName,dortisto.ru
+Ukraine - Cyber Attack IOC,DomainName,zerotask.ru
+Winterflounder,Hash,490365b7579861fdef91aff3d83a1972657a35505b193f363b934faa7955132c
+Winterflounder,Hash,ac4ea751ca1382550efb2d3f4df9242f4541836b0e82deb49847f763afdf20ca
+Winterflounder,Hash,535f533b1008a55c89cab7f4d4163e609d0d6e5b512002022d2634e74e84edf9
+Whispergate,IP Address,188.225.45.240
+Whispergate,Domain,delicacy.delicate.maizuko.ru
+Whispergate,Domain,screato.ru
+Whispergate,Domain,nemoiti.ru
+Whispergate,Domain,plazma.viber.ontroma.ru
+Whispergate,Domain,mouiik.ru
+Whispergate,Domain,metcalfas.ru
+Whispergate,Domain,magipo.ru
+Whispergate,Domain,omyce.ru
+Whispergate,Domain,kiolart.ru
+Whispergate,Domain,kilorta.ru
+Zander,Hash,910b26c942c0cff8b1f5a57e1521801bfd54c8cbcfd23d3d11ea9fe27ca4a0e9
+Additional IOC,Hash,51b9e03db53b2d583f66e47af56bb0146630f8a175d4a439369045038d6d2a45
+"NCSC, Cyclops Blink",Hash,50df5734dd0c6c5983c21278f119527f9fdf6ef1d7e808a29754ebc5253e9a86
+Ukraine - Cyber Attack IOC,DomainName,pertolka.ru
+Ukraine - Cyber Attack IOC,DomainName,vnestri.ru
+Ukraine - Cyber Attack IOC,DomainName,amaniwa.ru
+Winterflounder,Hash,84e80cbe5e3b8c0f8cde4fcd1c72551f57c46334fcdb49c90eb8ff1b942d1438
+Winterflounder,Hash,e3e98ec10a1ae7ce3c37cd6d4e79d12d9bbde1ac382809d17917786253cd7265
+Winterflounder,Hash,a123c8bc9bb6a7254764aa69928d2fec6784493eb5904683636b369507124710
+Walleye,Hash,99c84b8e063bdfdd07f39f2fac1fee4a68204e97283c60c7524cdacbf392729d
+Whispergate,Domain,bibliota.ru
+Whispergate,Domain,midiatr.ru
+Whispergate,Domain,filorta.ru
+Whispergate,Domain,hilotrapa.ru
+Whispergate,Domain,ishinde.ru
+Whispergate,Domain,idaite.ru
+Whispergate,Domain,moscowguarante.com
+Whispergate,Domain,monask.ru
+Whispergate,Domain,marginto.ru
+Whispergate,Domain,libellus.ru
+Whispergate,Domain,leonot.ru
+Additional IOC,Hash,8e1d7a3cbd5b501f5c337063e5b83c0935291eff9ea8cdd4c3cdcbff2e3ad459
+Ukraine - Cyber Attack IOC,FileSha256,0c2ac3c192b0af9f4834710f7389c7795a56f4be2bba4101d6134d86b1ce465e
+Ukraine - Cyber Attack IOC,FileSha256,82c426d9b8843f279ab9d5d2613ae874d0c359c483658d01e92cc5ac68f6ebcf
+Ukraine - Cyber Attack IOC,DomainName,shitemo.ru
+Ukraine - Cyber Attack IOC,DomainName,cryptonas.ru
+Ukraine - Cyber Attack IOC,DomainName,gloritapa.ru
+Winterflounder,Hash,9d085a26813cd1aa43e12d9b90aeb24df6269db92b965f61d93a8018d6b8a0cf
+Winterflounder,Hash,4b7aecb006b8d3543265fc051e9b435bc0a8bb2698d5351604263e52a0af4a7c
+Walleye,Hash,0b4529d6de10ea0db0af11587594b38e636411711c2c15ac0fd1764ac913de64
+Whispergate,Domain,cryptonas.ru
+Whispergate,Domain,ikaraur.ru
+Whispergate,Domain,deep-pitched.enarto.ru
+Whispergate,Domain,monilia.ru
+Whispergate,Domain,lipolys.ru
+Whispergate,Domain,limenitis.online
+Whispergate,Domain,limenitidinae.online
+"NCSC, Path location to backed-up legitimate install_upgrade executable",File Path,/pending/bin/install_upgraded
+"NCSC, Cyclops Blink",IP Address,37.71.147.186
+"Possible WINTERFLOUNDER sample, Jan-Feb 2022",Hash,15099fc6aea1961164954033b397d773ebf4b3ef7a5567feb064329be6236a01
+Ukraine - Cyber Attack IOC,FileSha256,c05f4c5a6bb940e94782e07cf276fc103a6acca365ba28e7b4db09b5bbc01e58
+Ukraine - Cyber Attack IOC,FileSha256,6a64a8e2202db7f3a77d32b4852b71acf620f96580ca015e8bff8f5a09622032
+Ukraine - Cyber Attack IOC,DomainName,kippuno.ru
+Ukraine - Cyber Attack IOC,DomainName,golofir.ru
+Ukraine - Cyber Attack IOC,DomainName,hilotrapa.ru
+Winterflounder,Hash,b7a814deba56c6905c72d744d02398d46b34e9d1d7d02b5a501b1bddaf566407
+Winterflounder,Hash,a67e5d562e754426e061c74b04af19d8f59a9bfe5134d5bb6ed4d429d022840a
+Walleye,Hash,53aef1e8b281a00dea41387a24664655986b58d61d39cfbde7e58d8c2ca3efda
+Walleye,Hash,0ab8836efcaa62c7daac314e0b7ab1679319b2901578fd9e95ec3476b4c1a732
+Whispergate,Domain,vositra.ru
+Whispergate,Domain,asdorta.ru
+Whispergate,Domain,warau.ru
+Whispergate,Domain,jittome.ru
+Whispergate,Domain,inachis.ru
+Whispergate,Domain,murikon.ru
+Whispergate,Domain,luminta.ru
+Whispergate,Domain,klotrast.ru
+Whispergate,Domain,ribicat.ru
+Additional IOC,Hash,e4d309735f5326a193844772fc65b186fd673436efab7c6fed9eb7e3d01b6f19
+Additional IOC,Hash,8ed03b1d544444b42385e79cd17c796fefae71d140b146d0757a3960d8ba3cba
+Additional IOC,Hash,3bab73a7ba6b84d9c070bb7f71daab5b40fcb6ee0387b67be51e978a47c25439
+Redline BTC Clipper used in WhisperGate chain of compromise,Hash,9e40d49401d52916a0b60e494992d320a6c8709f4dc122180fcfb0ac884aeb6a
+"NCSC, Cyclops Blink",IP Address,208.81.37.50
+"Sentinel Labs, RCDATA_DRV_X64 in HermeticWiper, ms-compressed resource",Hash,a952e288a1ead66490b3275a807f52e5
+Ukraine - Cyber Attack IOC,FileSha256,a196c6b8ffcb97ffb276d04f354696e2391311db3841ae16c8c9f56f36a38e92
+Ukraine - Cyber Attack IOC,DomainName,teroba.ru
+Ukraine - Cyber Attack IOC,DomainName,nattanda.ru
+Ukraine - Cyber Attack IOC,DomainName,bellinor.ru
+Ukraine - Cyber Attack IOC,DomainName,kucart.ru
+Ukraine - Cyber Attack IOC,DomainName,midiatr.ru
+Winterflounder,Hash,af67c332c95d045f4847b06e70ed590d492ecf0e59da0244d117b02bb04cfc5a
+Winterflounder,Hash,0e5b4e578788760701630a810d1920d510015367bf90c1eab4373d0c48a921d9
+Whispergate,Domain,hajimari.ru
+Whispergate,Domain,sorawo.ru
+Whispergate,Domain,acetica.online
+Whispergate,Domain,hortoban.ru
+Whispergate,Domain,jokolor.ru
+Whispergate,Domain,jipitor.ru
+Whispergate,Domain,ikademo.ru
+Whispergate,Domain,oidium.ru
+Whispergate,Domain,mucoris.ru
+Whispergate,Domain,mtageri.ru
+Whispergate,Domain,rekishino.ru
+Whispergate,Domain,potrosiha.ru
+BlackKnight,Hash,5c776a33568f4c16fee7140c249c0d2b1e0798a96c7a01bfd2d5684e58c9bb32
+Additional IOC,Hash,425ee82f20eb87e07a0d4f77adb72bf3377051365be203ee6ded37b399094f20
+"ESET, HermeticWiper",Hash,1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591
+"Symantec Threat Hunter Team, Trojan.Killdisk",Hash,a64c3e0522fad787b95bfb6a30c3aed1b5786e69e88e023c062ec7e5cebf4d3e
+Ukraine - Cyber Attack IOC,FileSha256,51b9e03db53b2d583f66e47af56bb0146630f8a175d4a439369045038d6d2a45
+Ukraine - Cyber Attack IOC,FileSha256,2042a2feb4d9f54d65d7579a0afba9ee1c6d22e29127991fbf34ea3da1659904
+Ukraine - Cyber Attack IOC,DomainName,yazibo.ru
+Winterflounder,Hash,182ec5f3859a78ce0c42995ecf63a0e412ff189b02b57a20057d2886a9098d88
+Winterflounder,Hash,695fabf0d0f0750b3d53de361383038030752d07b5fc8d1ba6eb8b3e1e7964fa
+Walleye,Hash,7c76ca5eb757df4362fabb8cff1deaa92ebc31a17786c89bde55bc53ada43864
+Whispergate,Domain,melitaeas.ru
+Whispergate,Domain,milopoda.ru
+Whispergate,Domain,polyphemus.ru
+Additional IOC,Hash,3e1d17efe857c935869fc28ce94c3528f7f5232fcebd40442a7c3c388e3d69be
+Additional IOC,Hash,eb1724d14397de8f9dca4720dada0195ebb99d72427703cabcb47b174a3bfea2
+Additional IOC,Hash,1d776e7fb062e153d3a62e1ebe1f2eec30ea13fa4b1b8749935f1856be4182d9
+Ukraine - Cyber Attack IOC,FileSha256,425ee82f20eb87e07a0d4f77adb72bf3377051365be203ee6ded37b399094f20
+Ukraine - Cyber Attack IOC,FileSha256,c6e092316f61d2fc9c84299dd224a6e419e74c98c51a44023f8f72530ac28fdc
+Ukraine - Cyber Attack IOC,DomainName,adeltorr.ru
+Winterflounder,Hash,c77fb3d3053958ea3aa4419e2bf4d0caf14f6c74047216e789628d095cc9e733
+Winterflounder,Hash,23725c0994c065d9221fa3d6a91eb0693410dd2585c835c935db04b812b1486f
+Winterflounder,Hash,5339f3468fa4bbb6b10073289b6cfe18b28b1db9c9d5e72c810e0435b1668e9f
+Walleye,Hash,2da5a388b891e42df4ed62cffbc167db2021e2441e6075d651ecc1d0ffd32ec8
+Walleye,Hash,ed0925f6013a9eca2aa5db52b1a8fbbbddb47999c2e6f6a37687f62316d050f6
+Whispergate,Domain,nerabis.ru
+Whispergate,Domain,mihardo.ru
+Whispergate,Domain,mondii.ru
+Whispergate,Domain,mekamiwo.ru
+Whispergate,Domain,maniola.ru
+Whispergate,Domain,malitors.ru
+Whispergate,Domain,macros3.space
+Whispergate,Domain,masshir.ru
+Whispergate,Domain,pokolas.ru
+Whispergate,Domain,onili.ru
+BlackKnight,Hash,758598370c3b84c6fbb452e3d7119f700f970ed566171e879d3cb41102154272
+Additional IOC,Hash,28c5629b18b097015ef8c256a8a7f2019ddc1a362a92a0379dd5d0c98b0e33d3
+Additional IOC,Hash,a6867e9086a8f713a962238204a3266185de2cc3c662fba8d79f0e9b22ce8dd6
+Additional IOC,Hash,0e5b4e578788760701630a810d1920d510015367bf90c1eab4373d0c48a921d9
+Additional IOC,Hash,82c426d9b8843f279ab9d5d2613ae874d0c359c483658d01e92cc5ac68f6ebcf
+WhisperGate related,Hash,923eb77b3c9e11d6c56052318c119c1a22d11ab71675e6b95d05eeb73d1accd6
+"Possible WINTERFLOUNDER sample, Jan-Feb 2022",Hash,e4d309735f5326a193844772fc65b186fd673436efab7c6fed9eb7e3d01b6f19
+"NCSC, Cyclops Blink",IP Address,96.80.68.193
+"Possible WINTERFLOUNDER sample, Jan-Feb 2022",Hash,8a8c1a292eeb404407a9fe90430663a6d17767e49d52107b60bc229c090a0ae9
+"Sentinel Labs, RCDATA_DRV_XP_X86 in HermeticWiper, ms-compressed resource",Hash,eb845b7a16ed82bd248e395d9852f467
+Ukraine - Cyber Attack IOC,DomainName,hortoban.ru
+Ukraine - Cyber Attack IOC,DomainName,riontos.ru
+Ukraine - Cyber Attack IOC,DomainName,fortfar.ru
+Winterflounder,Hash,0afce2247ffb53783259b7dc5a0afe04d918767c991db2da906277898fd80be5
+Winterflounder,Hash,b27372960d28d3f36c93988a0b6df9d3f8211b2a252cd375e179bb8a9b54559b
+Walleye,IP Address,185.112.83.96
+Walleye,Hash,2ced68e4425d31cca494557c29a76dfc3081f594ff01549e41d2f8a08923ef61
+Whispergate,Domain,ismetroh.ru
+Whispergate,Domain,iersin.ru
+Whispergate,Domain,morphinaes.ru
+Whispergate,Domain,kovalsko.ru
+Whispergate,Domain,raidata.ru
+Additional IOC,Hash,1bc44eef75779e3ca1eefb8ff5a64807dbc942b1e4a2672d77b9f6928d292591
+WhisperGate related,Hash,67a7dc6405acc9887da45e7b5d57413157519265650fa6749b1b2c8c0a8f3d11
+Ukraine - Cyber Attack IOC,FileSha256,0afce2247ffb53783259b7dc5a0afe04d918767c991db2da906277898fd80be5
+Ukraine - Cyber Attack IOC,FileSha256,9ef7dbd3da51332a78eff19146d21c82957821e464e8133e9594a07d716d892d
+Ukraine - Cyber Attack IOC,DomainName,ruchkalo.ru
+Ukraine - Cyber Attack IOC,DomainName,telefar.ru
+Ukraine - Cyber Attack IOC,DomainName,konoatari.ru
+Winterflounder,Hash,6705f4b9ffabbf9f4a9b112286f194a05fe593e6076c5fcf9296624042823265
+Winterflounder,Hash,ccd5f196de54ac8ba5d5c3612f8807091f6c23dd501fa64161a161849f65f2a2
+Winterflounder,Hash,8d27a625c033baf16a0c8cc1b32e5ab3720525d87b1f63e328e32bf60b03740a
+Walleye,URL,http://miix.kibot.pw:8880/links/12-28
+Walleye,Hash,453468b86856665f2cc0e0e71668c0b6aac8b14326c623995ba5963f22257619
+Whispergate,Domain,adeltorr.ru
+Whispergate,Domain,ouichi.ru
+Whispergate,Domain,hopfar.ru
+Whispergate,Domain,fortfar.ru
+Whispergate,Domain,potroka.ru
+Whispergate,Domain,podloka.ru
+Additional IOC,Hash,4b437fa2a193c17fc189d8f0b4ebb71fa618b1db9b670b4243a855419e51e547
+"Sentinel Labs,  RCDATA_DRV_X86 in Hermetic Wiper, ms-compressed resource",Hash,231b3385ac17e41c5bb1b1fcb59599c4
+Ukraine - Cyber Attack IOC,DomainName,vasitron.ru
+Ukraine - Cyber Attack IOC,DomainName,jupirest.ru
+Ukraine - Cyber Attack IOC,Url,hxxp://188.225.58.51/craft.php
+Winterflounder,Hash,8831eb86996d4778be526a6fd281c98d624b155940aae463b45dda1c5f979f1c
+Winterflounder,Hash,f08c54c4d8a470f96a0acf6aefeb95c49a8704a473d6105a921a18917e1747fa
+Winterflounder,Hash,8a8c1a292eeb404407a9fe90430663a6d17767e49d52107b60bc229c090a0ae9
+Winterflounder,Hash,96b9a11f2b4f8051083643da6bdc9e3952a91ad3f882cde2e4a8910726ffc09c
+Whispergate,Domain,brontaga.ru
+Whispergate,Domain,ruchkalo.ru
+Whispergate,Domain,reapart.ru
+Whispergate,Domain,hokoldar.ru
+Whispergate,Domain,riontos.ru
+Whispergate,Domain,mortalin.ru
+Whispergate,Domain,mantodeas.online
+Whispergate,Domain,lycaenidae.online
+Whispergate,Domain,wokoras.ru
+Whispergate,Domain,penicil.ru
+Whispergate,Domain,otpuli.ru
+Whispergate,Domain,kilogar.ru
+Pseudo,Hash,191ca4833351e2e82cb080a42c4848cfbc4b1f3e97250f2700eff4e97cf72019
+BlackKnight,Hash,2c1d3d0a9c6f76726994b88589219cb8d9c39dd9924bc8d2d02bf41d955fe326
+Additional IOC,Hash,e33fd8e95a97f5815a62020c6b98ef5981a9f1ed7bbb8bb674dd8465fd610c7e
+Additional IOC,Hash,f211e0eb49990edbb5de2bcf2f573ea6a0b6f3549e772fd16bf7cc214d924824
+Additional IOC,Hash,fe068e324cd4175f857dfee4c23512ed01f3abbf8b6138b715caa1ba5e9486c0
+Additional IOC,URL,http://87.249.54.15/load.php
+"NCSC, Cyclops Blink",IP Address,105.159.248.137
+"Possible WINTERFLOUNDER sample, Jan-Feb 2022",Hash,b3d68268bd4bb14b6d412cef2b12ae4f2a385c36600676c1a9988cf1e9256877
+Ukraine - Cyber Attack IOC,DomainName,holorta.ru
+Ukraine - Cyber Attack IOC,DomainName,wokoras.ru
+Ukraine - Cyber Attack IOC,Url,hxxp://94.158.247.103/bars.cas
+Winterflounder,Hash,32df8c49d6f89722c6aca8943883cfff3cdf34074e87ff48f7c96da5d732c02b
+Walleye,IP Address,91.206.14.151
+Whispergate,Domain,golofir.ru
+Whispergate,Domain,gongorat.ru
+Whispergate,Domain,insomniar.ru
+Whispergate,Domain,miwosaga.ru
+Whispergate,Domain,maratis.ru
+Whispergate,Domain,mamberis.ru
+Whispergate,Domain,poznari.ru
+Pseudo,Hash,a196c6b8ffcb97ffb276d04f354696e2391311db3841ae16c8c9f56f36a38e92
+WhisperGate-related downloader containing the file corrupter,Hash,dcbbae5a1c61dbbbb7dcd6dc5dd1eb1169f5329958d38b58c3fd9384081c9b78
+Ukraine - Cyber Attack IOC,FileSha256,daecec4b18cf212a59458afb1f6eac6568c389ec4f0185e11262b4c4cf09a394
+Ukraine - Cyber Attack IOC,DomainName,nukegaran.ru
+Winterflounder,Hash,a01e12988448a5b26d1d1adecc2dda539b5842f6a7044f8803a52c8bb714cdb0
+Winterflounder,Hash,b92dcbacbaaf0a05c805d31762cd4e45c912ba940c57b982939d79731cf97217
+Winterflounder,Hash,15099fc6aea1961164954033b397d773ebf4b3ef7a5567feb064329be6236a01
+Whispergate,Domain,pertolka.ru
+Whispergate,Domain,shitemo.ru
+Whispergate,Domain,zvustro.ru
+Whispergate,Domain,draagotan.ru
+Whispergate,Domain,inosokof.ru
+Whispergate,Domain,mycoba.ru
+Whispergate,Domain,miharashi.ru
+Whispergate,Domain,ricuma.ru
+HermeticWiper,Hash,3c557727953a8f6b4788984464fb77741b821991acbf5e746aebdd02615b1767
+"NCSC, Cyclops Blink",Hash,ff17ccd8c96059461710711fcc8372cfea5f0f9eb566ceb6ab709ea871190dc6
+"NCSC, Path location of Cyclops Blink executable",File Path,/usr/bin/cpd
+Ukraine - Cyber Attack IOC,FileSha256,8a8c1a292eeb404407a9fe90430663a6d17767e49d52107b60bc229c090a0ae9
+Ukraine - Cyber Attack IOC,DomainName,despite.lotorgas.ru
+Ukraine - Cyber Attack IOC,DomainName,gorigan.ru
+Ukraine - Cyber Attack IOC,DomainName,bartion.ru
+Ukraine - Cyber Attack IOC,DomainName,bilorotka.ru
+Ukraine - Cyber Attack IOC,DomainName,boltorg.ru
+Ukraine - Cyber Attack IOC,DomainName,machiwo.ru
+Winterflounder,Hash,9a9d8cd54ee439d781ba9499ac1d4a878007c995f59f72ccaad4a7a6c3793938
+Winterflounder,Hash,28c5629b18b097015ef8c256a8a7f2019ddc1a362a92a0379dd5d0c98b0e33d3
+Winterflounder,Hash,849c372906c0f9815832e8178a829b5196150bc402a0aa081e5621f336508292
+Winterflounder,Hash,ffb6d57d789d418ff1beb56111cc167276402a0059872236fa4d46bdfe1c0a13
+Winterflounder,Hash,42f8223ba588d510e2f2a00ca6500ba1b71684509f10695a156069876600ccdc
+Winterflounder,Hash,2da473d1f510d0ddbae074a6c13953863c25be479acedc899c5529ec55bd2a65
+Walleye,IP Address,213.226.71.125
+Walleye,Hash,c91843a69dcf3fdad0dac1b2f0139d1bb072787a1cfcf7b6e34a96bc3c081d65
+Walleye,Hash,30c150419000d27dafcd5d00702411b2b23b0f5d7e4d0cc729a7d63b2e460a01
+Whispergate,Domain,bilorotka.ru
+Whispergate,Domain,goshita.ru
+Whispergate,Domain,nakushita.ru
+Whispergate,Domain,telefar.ru
+Whispergate,Domain,holorta.ru
+Whispergate,Domain,keiwakaw.ru
+Whispergate,Domain,karamono.ru
+Whispergate,Domain,omyca.ru
+Whispergate,Domain,muhicha.ru
+Whispergate,Domain,molorto.ru
+Whispergate,Domain,sundabokun.ru
+Whispergate,Domain,protimas.ru
+Whispergate,Domain,kofukaku.ru
+Additional IOC,Hash,923eb77b3c9e11d6c56052318c119c1a22d11ab71675e6b95d05eeb73d1accd6
+Ukraine - Cyber Attack IOC,DomainName,saturapa.ru
+Ukraine - Cyber Attack IOC,DomainName,kolotran.ru
+Winterflounder,Hash,7fb37a7ef155120320dbf63f781af32cc2c8db3e590c7472a44fe84d4128f3ec
+Winterflounder,Hash,029005b595c5b9f3c7ddb49883b325f8f0bf5d13b18010a38d04b15f227d2052
+Winterflounder,Hash,96ce576f383584e0a62225a91bb50fc7fd8efa068443c4785373c86f51d2e3eb
+Winterflounder,Hash,280a55919e502ecb66082107374e5b71a534338a8a7c02680cc4f1f84a204d59
+Winterflounder,Hash,61e67302a85ff98eabc589572dbf3bf6e1012207d399b9f2b6b38527833e9198
+Walleye,Hash,e50d1097286400479d4308a50ccb0b231165810d2008e0b1dc44c5e8b2741444
+Whispergate,Domain,bibikaro.ru
+Whispergate,Domain,lighin.ru
+Whispergate,Domain,libellulidae.online
+Pseudo,Hash,9ef7dbd3da51332a78eff19146d21c82957821e464e8133e9594a07d716d892d
+BlackKnight,Hash,018eb62e174efdcdb3af011d34b0bf2284ed1a803718fba6edffe5bc0b446b81
+Additional IOC,Hash,a33ccc612a03de4f42a6f5ab5277470f6a7e8ee7abe52725b13704366e8da48b
+Additional IOC,Domain,despite.lotorgas.ru
+WhisperGate-related Microsoft Visual Basic Scripting Edition (VBScript) that uses Powershell to add Windows Defender exclusion to the root directory,Hash,db5a204a34969f60fe4a653f51d64eee024dbf018edea334e8b3df780eda846f
+"NCSC, Cyclops Blink",IP Address,100.43.220.234
+Ukraine - Cyber Attack IOC,FileSha256,e33fd8e95a97f5815a62020c6b98ef5981a9f1ed7bbb8bb674dd8465fd610c7e
+Ukraine - Cyber Attack IOC,FileSha256,17b278045a8814170e06d7532e17b831bede8d968ee1a562ca2e9e9b9634c286
+Ukraine - Cyber Attack IOC,FileSha256,b50fb20396458aec55216cc9f5212162b3459bc769a38e050d4d8c22649888ae
+Winterflounder,Hash,803f8c5827e151d7571c06d1c1a8f0dca23cc2ff377efa6744e6a98f8c297c37
+Winterflounder,Hash,23d417cd0d3dc0517adb49b10ef11d53e173ae7b427dbb6a7ddf45180056c029
+Walleye,Hash,b7fbfdd36e1cb48f7ba2b8e0b779c16a694d0412ec0f1a99d43ebdd8c7cad0f9
+Walleye,Hash,d742a33692a77f5caef5ea175957c98b56c2dc255144784ad3bade0a0d50d088
+Whispergate,Domain,kippuno.ru
+Whispergate,Domain,libellulidae.ru
+Pseudo,Hash,923eb77b3c9e11d6c56052318c119c1a22d11ab71675e6b95d05eeb73d1accd6
+BlackKnight,Hash,6d707e647427f1ff4a7a9420188a8831f433ad8c5325dc8b8cc6fc5e7f1f6f47
+Additional IOC,Hash,ef9b39705decbb85269518705053e7f4087758eea6bab4ba9135bf1ae922b2ea
+Additional IOC,Hash,3cbe7d544ef4c8ff8e5c1e101dbdf5316d0cfbe32658d8b9209f922309162bcf
+Additional IOC,Hash,67a7dc6405acc9887da45e7b5d57413157519265650fa6749b1b2c8c0a8f3d11
+Additional IOC,URL,http://188.225.45.240/crawled.php
+Additional IOC,URL,http://89.223.120.224/crawled.php
+Ukraine - Cyber Attack IOC,DomainName,urovista.ru
+Ukraine - Cyber Attack IOC,DomainName,zvustro.ru
+Ukraine - Cyber Attack IOC,DomainName,gortisir.ru
+Ukraine - Cyber Attack IOC,DomainName,filorta.ru
+Ukraine - Cyber Attack IOC,DomainName,kovalsko.ru
+Winterflounder,Hash,2cf0408ed2819bbdb36b2fd113c64339ceee893dce971e723de3d01a3e3dadbb
+Walleye,Hash,3215decffc40b3257ebeb9b6e5c81c45e298a020f33ef90c9418c153c6071b36
+Whispergate,Domain,boltorg.ru
+Whispergate,Domain,molortasa.ru
+Whispergate,Domain,lotorgas.ru
+Whispergate,Domain,kiesoud.ru
+BlackKnight,Hash,c96ed56bf7ee85a4398cc43a98b4db86d3da311c619f17c8540ae424ca6546e1
+Additional IOC,Hash,17b278045a8814170e06d7532e17b831bede8d968ee1a562ca2e9e9b9634c286
+WhisperGate related,Hash,a196c6b8ffcb97ffb276d04f354696e2391311db3841ae16c8c9f56f36a38e92
+Ukraine - Cyber Attack IOC,FileSha256,8f4a91ecfb9190461459a2d05e5cb944da80ec30a2b1d69f9817ecb431a5ac8f
+Ukraine - Cyber Attack IOC,FileSha256,4b437fa2a193c17fc189d8f0b4ebb71fa618b1db9b670b4243a855419e51e547
+Ukraine - Cyber Attack IOC,FileSha256,3c5fe61dfd3152af1ff814af0636cfd377f0c3fab53868fc3e19fd46b8a9e961
+Ukraine - Cyber Attack IOC,FileSha256,1164ba0688458c44b2063894100ecdc52221eb85b82a5044c55043e7918d4a19
+Ukraine - Cyber Attack IOC,FileSha256,bf90d5db47e6ba3a1840976b6bb88a8d0dfe97dfe02c9ca31b7be4018816d232
+Winterflounder,Hash,edecec2c413770fa929937c04ecf889e5c58d562c6e08ef0bfcd65ce482d397c
+Winterflounder,Hash,e56254b6b78f0bdc82cddff15c49f5b56ffef9aa105f1aae435504d1cdfe3310
+Winterflounder,Hash,c66ce9f228c9065a90b22bd71363a81d1a8f1d26eb5fe3815046eb42b72c0d5f
+Winterflounder,Hash,5440415c4a1702084a7c49b7024d0c75b9528b71d1faa4c744e95435dad6b533
+Winterflounder,Hash,6126072bac10935b539660b9879097889c52070816ecb3042f54c1d563bac6e0
+Walleye,IP Address,185.206.212.165
+Walleye,URL,http://node.kibot.pw:8880/links/12-28
+Whispergate,Domain,onihik.ru
+Whispergate,Domain,konoatari.ru
+Whispergate,Domain,bellinor.ru
+Whispergate,Domain,amaniwa.ru
+Whispergate,Domain,hymenoptera.online
+Whispergate,Domain,mycodar.ru
+Whispergate,Domain,104.238.189.186
+Whispergate,Domain,macros2.space
+Zander,Hash,e8542c07b2af63ee7e72ce5d97d91036c5da56e2b091aa2afe737b224305d230
+Additional IOC,Hash,15099fc6aea1961164954033b397d773ebf4b3ef7a5567feb064329be6236a01
+Additional IOC,Hash,3b6445cf6f8e9e70cb0fff35d723fec8203375d67cbd67c9a672cddc02a7ff99
+Additional IOC,Hash,c6e092316f61d2fc9c84299dd224a6e419e74c98c51a44023f8f72530ac28fdc
+Additional IOC,Hash,0f9d723c3023a6af3e5522f63f649c7d6a8cb2727ec092e0b38ee76cd1bbf1c4
+Additional IOC,Hash,9ef7dbd3da51332a78eff19146d21c82957821e464e8133e9594a07d716d892d
+Additional IOC,Domain,sound23.sundabokun.ru
+Default path location for downloaded files (Cyclops Blink),File Path,/var/tmp/a.tmp
+Ukraine - Cyber Attack IOC,FileSha256,3b6445cf6f8e9e70cb0fff35d723fec8203375d67cbd67c9a672cddc02a7ff99
+Ukraine - Cyber Attack IOC,DomainName,utemomac.ru
+Ukraine - Cyber Attack IOC,DomainName,koprotas.ru
+Ukraine - Cyber Attack IOC,DomainName,hostarama.ru
+Winterflounder,Hash,ef46fd0f387dcb8946e9be11535ac7c24d5c2380493deb4b1700b62f60ffc74d
+Winterflounder,Hash,bda512a34622dac188d6b93caad4d8e3667e4f6b1e9078d259ccea6f988c2320
+Winterflounder,Hash,0fb55f55ffca9927472f7ada8fdd9d84bc57108860be0f1c737d5111d3020b5a
+Winterflounder,Hash,8762522851f33de2707725cd7a89879c0b0afbd32bd34e2ac4443e4cbf285640
+Winterflounder,Hash,d2d3a5b67e275e7805f3216cb8d59cb8cfbd39798115ca504c5ad865a4fe52fb
+Whispergate,IP Address,188.225.58.51
+Whispergate,Domain,kallima.ru
+Whispergate,Domain,ichiella.ru
+Whispergate,Domain,nbator.ru
+Whispergate,Domain,nagaimo.ru
+Whispergate,Domain,avirona.ru
+Whispergate,Domain,kovallin.ru
+Whispergate,Domain,volotras.ru
+Additional IOC,URL,http://sound23.sundabokun.ru/FRIMEPC2016-PC/allowance.stc
+E-crime related file observed in WhisperGate chain of compromise,Hash,071dbd336e02c717f3dad1e374c1f6eb83294b7105c7cd60d562a32880200270
+"NCSC, Cyclops Blink",Hash,c082a9117294fa4880d75a2625cf80f63c8bb159b54a7151553969541ac35862
+"Possible WINTERFLOUNDER sample, Jan-Feb 2022",Hash,0e5b4e578788760701630a810d1920d510015367bf90c1eab4373d0c48a921d9
+Ukraine - Cyber Attack IOC,FileSha256,f211e0eb49990edbb5de2bcf2f573ea6a0b6f3549e772fd16bf7cc214d924824
+Ukraine - Cyber Attack IOC,FileSha256,fe068e324cd4175f857dfee4c23512ed01f3abbf8b6138b715caa1ba5e9486c0
+Ukraine - Cyber Attack IOC,DomainName,kolorato.ru
+Walleye,Hash,ddf039c3d6395139fd7f31b0a796a444f385c582ca978779aae7314b19940812
+Walleye,Hash,103b8404dc64c9a44511675981a09fd01395ee837452d114f1350c295357c046
+Whispergate,Domain,megascolias.ru
+Whispergate,Domain,marinos.ru
+Whispergate,Domain,mapifa.ru
+Whispergate,Domain,listohi.ru
+Whispergate,Domain,robact.ru
+Additional IOC,Hash,cb0d151d930b17f6376c18aa15fd976eac53d6f07d065fc27c40b466e3bc49aa
+Additional IOC,Hash,c05f4c5a6bb940e94782e07cf276fc103a6acca365ba28e7b4db09b5bbc01e58
+Ukraine - Cyber Attack IOC,FileSha256,6d4b97e74abf499fa983b73a1e6957eadb2ec6a83e206fff1ab863448e4262c6
+Ukraine - Cyber Attack IOC,DomainName,atasareru.ru
+Ukraine - Cyber Attack IOC,DomainName,screato.ru
+Ukraine - Cyber Attack IOC,DomainName,historap.ru
+Ukraine - Cyber Attack IOC,DomainName,dangeti.ru
+Winterflounder,Hash,eb1724d14397de8f9dca4720dada0195ebb99d72427703cabcb47b174a3bfea2
+Winterflounder,Hash,b3d68268bd4bb14b6d412cef2b12ae4f2a385c36600676c1a9988cf1e9256877
+Winterflounder,Hash,1d8a5b468c90eeb8d6787a2578e840c1f1ff275819fa2dd54d8072304b315178
+Whispergate,Domain,dokkade.ru
+Whispergate,Domain,urovista.ru
+Whispergate,Domain,kolorato.ru
+Whispergate,Domain,golorta.ru
+Whispergate,Domain,gribata.ru
+Whispergate,Domain,merostomata.ru
+Whispergate,Domain,korgant.ru
+Whispergate,Domain,plortac.ru
+Whispergate,Domain,opoziko.ru
+Whispergate,Domain,onoba.ru
+Additional IOC,Hash,bae9895ad4e392990a09b1b8a01e424a7ad3769e538ac693919d1b99989f0cb3
+Additional IOC,Hash,3a4f3a39d32715a57c9985690a3fea76140ba832a1bfbb0c6aa3b6270661e12c
+Additional IOC,Hash,29ae7b30ed8394c509c561f6117ea671ec412da50d435099756bbb257fafb10b
+"NCSC, Cyclops Blink",Hash,4e69bbb61329ace36fbe62f9fb6ca49c37e2e5a5293545c44d155641934e39d1
+Ukraine - Cyber Attack IOC,DomainName,acetica.online
+Ukraine - Cyber Attack IOC,DomainName,lotorda.ru
+Ukraine - Cyber Attack IOC,DomainName,oyoida.ru
+Ukraine - Cyber Attack IOC,Url,hxxp://188.225.45.240/crawled.php
+Ukraine - Cyber Attack IOC,Url,hxxp://87.249.54.15/load.php
+Winterflounder,Hash,884c15502dbd6fe6dd4fca322904a38bce117ab6ed102ab2da84dfb4064c3e44
+Winterflounder,Hash,72b7609e0871eb7418d64e38cb40d74dda17356c96572fcd524f8bd22274af4a
+Walleye,Hash,c07d30c0b69e11bae9f700187f2ca2473918142905fa258f1c6b52986087e3c7
+Walleye,Hash,8c4294e3154675cd926ab6b772dbbe0e7a49cae16f4a37d908e1ca6748251c43
+Whispergate,Domain,gortomalo.ru
+Whispergate,Domain,gloritapa.ru
+Whispergate,Domain,alebont.ru
+Whispergate,Domain,ienaike.ru
+Whispergate,Domain,ichia.ru
+Whispergate,Domain,minalis.ru
+Whispergate,Domain,michis.ru
+Whispergate,Domain,maniis.ru
+Whispergate,Domain,limenitis.ru
+BlackKnight,Hash,08c34c6ac9186b61d9f29a77ef5e618067e0bc9fe85cab1ad25dc6049c376949
+BlackKnight,IP Address,94.185.85.122
+Additional IOC,Hash,0c2ac3c192b0af9f4834710f7389c7795a56f4be2bba4101d6134d86b1ce465e
+Additional IOC,Hash,137bfe2977b719d92b87699d93c0f140d659e990b482bbc5301085003c2bd58c
+Additional IOC,Hash,2042a2feb4d9f54d65d7579a0afba9ee1c6d22e29127991fbf34ea3da1659904
+Additional IOC,Hash,6ab08bc281b15935876936423b906c2bd8772ab1a6cb67a8fed2116e506fb7f8
+Additional IOC,URL,http://188.225.25.7/WHATSAAP.php
+"Possible WINTERFLOUNDER sample, Jan-Feb 2022",Hash,0afce2247ffb53783259b7dc5a0afe04d918767c991db2da906277898fd80be5
+Ukraine - Cyber Attack IOC,FileSha256,e4d309735f5326a193844772fc65b186fd673436efab7c6fed9eb7e3d01b6f19
+Ukraine - Cyber Attack IOC,DomainName,arianat.ru
+Ukraine - Cyber Attack IOC,DomainName,bibliota.ru
+Ukraine - Cyber Attack IOC,DomainName,herumot.ru
+Ukraine - Cyber Attack IOC,DomainName,jokolor.ru
+Winterflounder,Hash,3aac1c049eb628e1c289d3fc3a209f9262ed4cef862a3e2157bd6f3b02cc4698
+Winterflounder,Hash,a9799ed289b967be92f920616015e58ae6e27defaa48f377d3cd701d0915fe53
+Winterflounder,Hash,c5248a00ccee03a159fff2e30709c3b23fb47faa811959d3249bc347f7e34a80
+Whispergate,Domain,kucart.ru
+Whispergate,Domain,ibigao.ru
+Whispergate,Domain,nodoka.ru
+Whispergate,Domain,privigna.ru
+Whispergate,Domain,lepidopteras.ru
+Whispergate,Domain,kopolotr.ru
+Whispergate,Domain,dangeti.ru
+Additional IOC,Hash,c68eb2fa929373cac727764d2cc5ca94f19a0ec7fd8c0876b98f946e72d9fa03
+Additional IOC,Hash,b9b41fbbd646f11d148cface520a5d4e0ec502ba85c67b00668e239082a302e3
+Additional IOC,Hash,34ca75a8c190f20b8a7596afeb255f2228cb2467bd210b2637965b61ac7ea907
+"NCSC, Cyclops Blink",IP Address,212.202.147.10
+"Possible WINTERFLOUNDER sample, Jan-Feb 2022",Hash,b92dcbacbaaf0a05c805d31762cd4e45c912ba940c57b982939d79731cf97217
+Ukraine - Cyber Attack IOC,FileSha256,4ec56992b46c36771b1e8412528c83c0be712ebb3788492486a555ad72205d83
+Ukraine - Cyber Attack IOC,FileSha256,a01e12988448a5b26d1d1adecc2dda539b5842f6a7044f8803a52c8bb714cdb0
+Ukraine - Cyber Attack IOC,FileSha256,137bfe2977b719d92b87699d93c0f140d659e990b482bbc5301085003c2bd58c
+Sandfish,IP Address,141.98.10.60
+Walleye,URL,http://node.kibot.pw:8880/links/01-13
+Whispergate,Domain,jolotras.ru
+Whispergate,Domain,naletovo.ru
+Whispergate,Domain,lenatara.ru
+Whispergate,Domain,hustram.ru
+Whispergate,Domain,noctuidaes.ru
+Whispergate,Domain,libellulat.ru
+Additional IOC,Hash,a01e12988448a5b26d1d1adecc2dda539b5842f6a7044f8803a52c8bb714cdb0
+Additional IOC,URL,http://5.182.211.5/rip.sh
+"NCSC, Cyclops Blink",IP Address,37.99.163.162
+Ukraine - Cyber Attack IOC,FileSha256,3e1d17efe857c935869fc28ce94c3528f7f5232fcebd40442a7c3c388e3d69be
+Ukraine - Cyber Attack IOC,DomainName,alacritas.ru
+Ukraine - Cyber Attack IOC,DomainName,nakushita.ru
+Ukraine - Cyber Attack IOC,DomainName,holotran.ru
+Winterflounder,Hash,fd204f552fcc0fc8d63650302742c2d9e32175eb9675f5e57eeb2012816519d5
+Winterflounder,Hash,afcbaae700e1779d3e0abe52bf0f085945fc9b6935f7105706b1ab4a823f565f
+Walleye,Hash,041bc20ca8ac3161098cbc976e67e3c0f1b672ad36ecbe22fd21cbd53bcaa742
+Walleye,Hash,6fe6808b9cfe654f526108ec61cb5211bb6601d28e192cadf06102073b54f69c
+Whispergate,Domain,nilias.ru
+Whispergate,Domain,lorianar.ru
+Whispergate,Domain,yazibo.ru
+Whispergate,Domain,jupirest.ru
+Whispergate,Domain,portalahr.ru
+BlackKnight,Hash,21c1fdd6cfd8ec3ffe3e922f944424b543643dbdab99fa731556f8805b0d5561
+Additional IOC,Hash,8f4a91ecfb9190461459a2d05e5cb944da80ec30a2b1d69f9817ecb431a5ac8f
+Additional IOC,Hash,420960a10e3f3730ab124bfefceedc032ef06c7b38fa014b2b59462365a5f08d
+Additional IOC,Hash,3c5fe61dfd3152af1ff814af0636cfd377f0c3fab53868fc3e19fd46b8a9e961
+Hosted resource for stage2.exe download,URL,https://cdn.discordapp.com/attachments/928503440139771947/930108637681184768/Tbopbh.jpg
+Ukraine - Cyber Attack IOC,FileSha256,15099fc6aea1961164954033b397d773ebf4b3ef7a5567feb064329be6236a01
+Ukraine - Cyber Attack IOC,FileSha256,dcbbae5a1c61dbbbb7dcd6dc5dd1eb1169f5329958d38b58c3fd9384081c9b78
+Ukraine - Cyber Attack IOC,FileSha256,0a5fce829d3f7b43f6eb107c2e8e3d7883b96aa2703ff0f8dda3b5d464cca3f0
+Ukraine - Cyber Attack IOC,DomainName,ismetroh.ru
+Ukraine - Cyber Attack IOC,DomainName,draagotan.ru
+Ukraine - Cyber Attack IOC,DomainName,jabilen.ru
+Ukraine - Cyber Attack IOC,DomainName,rawaumi.ru
+Ukraine - Cyber Attack IOC,DomainName,martusi.ru
+Winterflounder,Hash,f211e0eb49990edbb5de2bcf2f573ea6a0b6f3549e772fd16bf7cc214d924824
+Whispergate,Domain,huskari.ru
+Whispergate,Domain,koprotas.ru
+Whispergate,Domain,nokratis.ru
+Whispergate,Domain,iwonaz.ru
+Whispergate,Domain,nibuku.ru
+Whispergate,Domain,libre1.space
+Whispergate,Domain,porolotas.ru
+Whispergate,Domain,koete.ru
+"Possible WINTERFLOUNDER sample, Jan-Feb 2022",Hash,eb1724d14397de8f9dca4720dada0195ebb99d72427703cabcb47b174a3bfea2
+Ukraine - Cyber Attack IOC,FileSha256,8831eb86996d4778be526a6fd281c98d624b155940aae463b45dda1c5f979f1c
+Ukraine - Cyber Attack IOC,FileSha256,a87e9d5e03db793a0c7b8e8e197d14745265422f05e6e50867cdfbd150d0c016
+Ukraine - Cyber Attack IOC,FileSha256,6ab08bc281b15935876936423b906c2bd8772ab1a6cb67a8fed2116e506fb7f8
+Ukraine - Cyber Attack IOC,DomainName,akowaika.ru
+Ukraine - Cyber Attack IOC,DomainName,nokata.ru
+Ukraine - Cyber Attack IOC,DomainName,nerabis.ru
+Ukraine - Cyber Attack IOC,DomainName,deer-lick.chehalo.ru
+Winterflounder,Hash,3c5fe61dfd3152af1ff814af0636cfd377f0c3fab53868fc3e19fd46b8a9e961
+Winterflounder,Hash,002e1b63a76a7125772cbf2ffd69e80d4d6491d72376ff04dafeb8c3cdc43831
+Walleye,URL,http://node.kibot.pw:2095/links/12-20
+Whispergate,Domain,arianat.ru
+Whispergate,Domain,bartion.ru
+BlackKnight,Hash,e8542c07b2af63ee7e72ce5d97d91036c5da56e2b091aa2afe737b224305d230
+BlackKnight,Hash,3e3ab9674142dec46ce389e9e759b6484e847f5c1e1fc682fc638fc837c13571
+Additional IOC,Hash,cd4548cefce7483170e81d4a8df5642df032345e485b0d97dfb947e2467317fe
+Additional IOC,Hash,4ec56992b46c36771b1e8412528c83c0be712ebb3788492486a555ad72205d83
+Additional IOC,Hash,85c14f4a7580623f967b9e9f7120a14bd3291f2177298e6bcb32e234af9bb2a8
+"Waqybg, contains file corrupter in WhisperGate chain of compromise",Hash,34ca75a8c190f20b8a7596afeb255f2228cb2467bd210b2637965b61ac7ea907
+"Possible WINTERFLOUNDER .NET downloader, Jan 2022",Hash,e4d309735f5326a193844772fc65b186fd673436efab7c6fed9eb7e3d01b6f19
+Ukraine - Cyber Attack IOC,DomainName,Moolin.ru
+Winterflounder,Hash,e4d309735f5326a193844772fc65b186fd673436efab7c6fed9eb7e3d01b6f19
+Winterflounder,Hash,352b5ec506823ffc008e7b71b2968a282ea6ac08cf372ac23cc87d957ecbd889
+Winterflounder,Hash,283937afa83ac2bfc38f8bb3478704ae65f372b52809def5782a697d1dbf4fd3
+Walleye,URL,http://organic.kibot.pw:2095/links/12-20
+Walleye,Hash,001eb377f0452060012124cb214f658754c7488ccb82e23ec56b2f45a636c859
+Whispergate,Domain,meshatr.ru
+Whispergate,Domain,atasareru.ru
+Whispergate,Domain,ikaramo.ru
+Whispergate,Domain,iermo.ru
+Whispergate,Domain,vostilo.ru
+Whispergate,Domain,plariun.ru
+Whispergate,Domain,pitanno.ru
+Whispergate,Domain,kiantor.ru
+BlackKnight,Hash,dcb7d2fc46f61d5522e005ac66f3f0661e2d5284d5a3f8b3a0c8b4050d8397a7
+Additional IOC,Hash,a87e9d5e03db793a0c7b8e8e197d14745265422f05e6e50867cdfbd150d0c016
+Additional IOC,Hash,dcbbae5a1c61dbbbb7dcd6dc5dd1eb1169f5329958d38b58c3fd9384081c9b78
+"NCSC, Cyclops Blink",IP Address,188.152.254.170
+"Symantec Threat Hunter Team, Ransomware seen with Trojan.Killdisk",Hash,4dc13bb83a16d4ff9865a51b3e4d24112327c526c1392e14d56f20d6f4eaf382
+Ukraine - Cyber Attack IOC,FileSha256,cd4548cefce7483170e81d4a8df5642df032345e485b0d97dfb947e2467317fe
+Ukraine - Cyber Attack IOC,DomainName,huskari.ru
+Ukraine - Cyber Attack IOC,DomainName,gribata.ru
+Ukraine - Cyber Attack IOC,DomainName,nokratis.ru
+Ukraine - Cyber Attack IOC,DomainName,nopaster.ru
+Ukraine - Cyber Attack IOC,DomainName,masshir.ru
+Winterflounder,Hash,2ef4275e4ca83f726839c7de922d8d60c3d1df292275f2a0afb252ef109aed42
+Winterflounder,Hash,0869881422aa20a93eb4567794d9c8bac175dcbb02e4e3f5591a81266ca94102
+Winterflounder,Hash,5c8e7b35e40fc6613a8ec304f36c9ea1986a51c65a0389445f90778e94fa15ed
+Walleye,Hash,095c223b94656622c81cb9386aefa59e168756c3e200457e98c00b609e0bb170
+Whispergate,Domain,akowaika.ru
+Whispergate,Domain,bobotal.ru
+Whispergate,Domain,ineari.ru
+Whispergate,Domain,mantodeas.ru
+Whispergate,Domain,rawaumi.ru
+Whispergate,Domain,oninatt.ru
+BlackKnight,Hash,ad23c7930dae02de1ea3c6836091b5fb3c62a89bf2bcfb83b4b39ede15904910
+BlackKnight,Hash,1a2ab4df156ccd685f795baee7df49f8e701f271d3e5676b507112e30ce03c42
+Additional IOC,Hash,803f8c5827e151d7571c06d1c1a8f0dca23cc2ff377efa6744e6a98f8c297c37
+Additional IOC,Hash,a196c6b8ffcb97ffb276d04f354696e2391311db3841ae16c8c9f56f36a38e92
