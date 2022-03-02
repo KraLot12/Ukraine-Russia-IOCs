@@ -952,3 +952,4 @@ WMIspreader(Symantec-ESET),Hash,6b5958bfabfe7c731193adb96880b225c8505b73
 SMBspreader(Symantec-ESET),Hash,ac5b6f16fc5115f0e2327a589246ba00b41439c2
 TestIOC,IPAddress,20.44.16.214
 TestIOC,IPAddress,138.91.106.183
+TestIOC,IPAddress,168.63.129.16
