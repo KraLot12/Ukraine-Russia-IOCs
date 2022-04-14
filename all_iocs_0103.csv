@@ -1041,7 +1041,6 @@ Additional IOC,Hash,0afce2247ffb53783259b7dc5a0afe04d918767c991db2da906277898fd8
 CaddyWiper ESET https://twitter.com/ESETresearch/status/1503436420886712321,Hash,98b3fb74b3e8b3f9b05a82473551c5a77b576d54
 CaddyWiper MD5 for 98b3fb74b3e8b3f9b05a82473551c5a77b576d54,Hash,42e52b8daf63e6e26c3aa91e7e971492
 CaddyWiper SHA256 for 98b3fb74b3e8b3f9b05a82473551c5a77b576d54,Hash,a294620543334a721a2ae8eaaf9680a0786f4b9a216d75b55cfd28f39e9430ea
-Campaign Name,Indicator Type,Indicator Value
 WINTERFLOUDER Malware Distribution Domain (ACTI-sourced),Domain,military-ukraine.site
 WINTERFLOUDER Malware Distribution Domain (ACTI-sourced),Domain,military-ukraine.online
 WINTERFLOUDER Malware C2 Domain (ACTI-sourced),Domain,co87972.tmweb.ru
