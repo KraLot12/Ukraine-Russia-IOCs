@@ -1041,3 +1041,59 @@ Additional IOC,Hash,0afce2247ffb53783259b7dc5a0afe04d918767c991db2da906277898fd8
 CaddyWiper ESET https://twitter.com/ESETresearch/status/1503436420886712321,Hash,98b3fb74b3e8b3f9b05a82473551c5a77b576d54
 CaddyWiper MD5 for 98b3fb74b3e8b3f9b05a82473551c5a77b576d54,Hash,42e52b8daf63e6e26c3aa91e7e971492
 CaddyWiper SHA256 for 98b3fb74b3e8b3f9b05a82473551c5a77b576d54,Hash,a294620543334a721a2ae8eaaf9680a0786f4b9a216d75b55cfd28f39e9430ea
+Campaign Name,Indicator Type,Indicator Value
+WINTERFLOUDER Malware Distribution Domain (ACTI-sourced),Domain,military-ukraine.site
+WINTERFLOUDER Malware Distribution Domain (ACTI-sourced),Domain,military-ukraine.online
+WINTERFLOUDER Malware C2 Domain (ACTI-sourced),Domain,co87972.tmweb.ru
+WINTERFLOUNDER Payload Delivery URL (ACTI-sourced),URL,https://military-ukraine.site/Assistance.rar
+WINTERFLOUNDER Payload Delivery URL (From CERT-UA),URL,https://military-ukraine.site/Necessary_military_assistance.rar
+WINTERFLOUNDER Malware C2 URL (ACTI-sourced),URL,http://prefer.jokotras.ru/hear/nephew/su
+WINTERFLOUNDER Malware C2 URL (ACTI-sourced),URL,http://military-ukraine.online/headstone/images/favicon.ico
+WINTERFLOUNDER Malware C2 URL (ACTI-sourced),URL,http://military-ukraine.online/predicate/images/favicon.ico
+WINTERFLOUNDER Malware C2 URL (ACTI-sourced),URL,http://co87972.tmweb.ru/intent/quick/favicon.ico
+WINTERFLOUNDER Malware C2 URL (ACTI-sourced),URL,http://co87972.tmweb.ru/select/guarded/favicon.ico
+WINTERFLOUNDER Malware C2 URL (ACTI-sourced),URL,http://co87972.tmweb.ru/seeing/network/favicon.ico
+WINTERFLOUNDER Operated Server (ACTI-sourced),IPAddress,194.58.104.86
+WINTERFLOUNDER Operated Server (ACTI-sourced),IPAddress,66.175.219.231
+WINTERFLOUNDER Operated Server (ACTI-sourced),IPAddress,5.23.50.132
+WINTERFLOUNDER Operated Server (ACTI-sourced),IPAddress,81.177.135.201
+WINTERFLOUNDER Operated Server (ACTI-sourced),IPAddress,77.222.56.111
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,ab8bb3c1ff0c19358b5cd9867dbf2206
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,6fd20f06d6364d905c573e936b6d39b5c8510374
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,cf7570cbbca779c755729484792208900a89564669785cb26e88442278ac52b2
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,6c4e8c4880e388a49681cc169ccd4032
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,5d869c0395b9373f978377057df6981a1a960e2e
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,fa7bbc46a7b062a5828380b7c70a67cb47ba10c2ef127fd2348647313f65aa11
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,73479ebeb7db408e1cabd3e5a9c3ab8d
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,08f6e5d101e6cc732f9c004c3e9c871ba4d465a6
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,baae0ac6b3873dfdec2587dcddfaf1a327aadf77f7fea6a1532960f31e3dd240
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,872ef25c5c544b277b6185d75f33f9fb
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,d88f0d16e1418dd870daf8a85cca2932f14ecb5b
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,09472d6bfb1c142a3b02f73175254a5e961f91e792dc9b347b099944bcfeab6f
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,7208e37192ad6f1d970a94d29ff02073
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,207dd0b65dd11ccde6f28e6a971958831864db27
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,8f429996f5be9d59d86ba4346de535a25b9a2c3e89cf2e29dbc053d13ae99269
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,fb69fdb35859be1141a85a2af804340b
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,ffd52b94d78975d462202c2cc14f30aba5173e4e
+WINTERFLOUDER LNK File (ACTI-sourced),Hash,303abc6d8ab41cb00e3e7a2165ecc1e7fb4377ba46a9f4213a05f764567182e5
+WINTERFLOUDER LNK File (ACTI-sourced),Filename,List of necessary things for the provision of military humanitarian assistance to Ukraine.lnk
+WINTERFLOUDER LNK File (ACTI-sourced),Filename,Providing military humanitarian assistance to Ukraine.lnk
+WINTERFLOUDER LNK File (ACTI-sourced),Filename,"?????????-???????? ?? ???????? ??????? (??????? ??????, ????, ?????? ?????????, ???????? ? ?????????? ?????).lnk"
+Industroyer2  ESET  https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/,Hash,fd9c17c35a68fc505235e20c6e50c622aed8dea0
+Industroyer2 (Filename for fd9c17c35a68fc505235e20c6e50c622aed8dea0)  ESET,Filename,108_100.exe
+ArguePatch  ESET  https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/,Hash,6fa04992c0624c7aa3ca80da6a30e6de91226a16
+ArguePatch (Filename for 6fa04992c0624c7aa3ca80da6a30e6de91226a16)  ESET,Filename,zrada.exe
+ArguePatch (MD5 for 6fa04992c0624c7aa3ca80da6a30e6de91226a16),Hash,9ec8468dd4a81b0b35c499b31e67375e
+ArguePatch  (SHA256 for 6fa04992c0624c7aa3ca80da6a30e6de91226a16),Hash,cda9310715b7a12f47b7c134260d5ff9200c147fc1d05f030e507e57e3582327
+TailJump (Encrypted CaddyWiper)  ESET  https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/,Hash,9ce1491ce69809f92ae1fe8d4c0783bd1d11fbe7
+TailJump (Encrypted CaddyWiper  Filename for 9ce1491ce69809f92ae1fe8d4c0783bd1d11fbe7)  ESET,Filename,pa.pay
+TailJump (Encrypted CaddyWiper  MD5 for 9ce1491ce69809f92ae1fe8d4c0783bd1d11fbe7),Hash,1938380a81a23b8b1100de8403b583a7
+TailJump (Encrypted CaddyWiper  SHA256 for 9ce1491ce69809f92ae1fe8d4c0783bd1d11fbe7),Hash,1724a0a3c9c73f4d8891f988b5035effce8d897ed42336a92e2c9bc7d9ee7f5a
+Script which enumerates GPO  ESET  https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/,Hash,0090cb4de31d2d3bca55fd4a36859921b5fc5dae
+Script which enumerates GPO (Filename for 0090cb4de31d2d3bca55fd4a36859921b5fc5dae)  ESET,Filename,link.ps1
+OrcShred (Linux worm)  ESET  https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/,Hash,d27d0b9bb57b2bab881e0efb97c740b7e81405df
+OrcShred (Linux worm  Filename for d27d0b9bb57b2bab881e0efb97c740b7e81405df)  ESET,Filename,sc.sh
+AwfulShred (Linux wiper)  ESET  https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/,Hash,3cdbc19bc4f12d8d00b81380f7a2504d08074c15
+AwfulShred (Linux wiper  Filename for 3cdbc19bc4f12d8d00b81380f7a2504d08074c15)  ESET,Filename,wobf.sh
+SoloShred (Solaris wiper)  ESET  https://www.welivesecurity.com/2022/04/12/industroyer2-industroyer-reloaded/,Hash,8fc7646fa14667d07e3110fe754f61a78cfde6bc
+SoloShred (Solaris wiper  Filename for 8fc7646fa14667d07e3110fe754f61a78cfde6bc)  ESET,Filename,wsol.sh
